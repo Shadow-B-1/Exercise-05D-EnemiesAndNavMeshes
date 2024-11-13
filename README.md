@@ -1,4 +1,5 @@
-# Exercise-05c-LightsAndMaterials
+
+# Exercise-05D-EnemiesAndNavMeshes
 
 
 ## Implementation
@@ -8,4 +9,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Bie Chai
